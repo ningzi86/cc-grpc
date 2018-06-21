@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcConsoleApplication1", "GrpcConsoleApplication1\GrpcConsoleApplication1.csproj", "{878105AF-257A-417F-86EE-C6890C7D8A63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{AEB85636-09D3-4398-B6F2-483EF3758C66}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878105AF-257A-417F-86EE-C6890C7D8A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878105AF-257A-417F-86EE-C6890C7D8A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878105AF-257A-417F-86EE-C6890C7D8A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878105AF-257A-417F-86EE-C6890C7D8A63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
